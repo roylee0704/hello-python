@@ -1,5 +1,6 @@
 
 def output_greeting():
+    """Prints a greeting to the screen."""
     print('Hello!!')
 
 
